@@ -1,8 +1,8 @@
 # mycode (Project Title)
 
-Python Basics Training Repo
+Python Basics Training Repo (4/26/2021)
 
-## Getting Started
+/## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine
 for development and testing purposes. See deployment for notes on how to deploy the project
@@ -19,4 +19,4 @@ how to install python and python3 using apt.
 
 ## Authors
 
-* **Your Name** - *Initial work* - [YourWebsite](https://example.com/)
+* **CRH** - *04/26/2021* - [YourWebsite](https://example.com/)
