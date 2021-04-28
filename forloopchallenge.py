@@ -28,7 +28,7 @@ def function3():
         farmlist.append(farm['name'])
     pickfarm=input(f"Please choose a farm {farmlist} to ONLY see the animals that are raised there: ")
 
-    print(f"The agriculture raised at {pickfarm} is:")
+    print(f"The ANIMALS  raised at {pickfarm} are:")
     for agri in farms[farmlist.index(pickfarm)]['agriculture']:
         if agri in animalslist:
             print(agri)
